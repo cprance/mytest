@@ -1,5 +1,6 @@
 # locally ignore .bak files
 *.bak
-
+*.out
+*.tmp
 # locally ignore files in directory 
 tmp/*
